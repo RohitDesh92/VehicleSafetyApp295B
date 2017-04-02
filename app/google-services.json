@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869634811314",
+    "firebase_url": "https://vehiclesafetyapp.firebaseio.com",
+    "project_id": "vehiclesafetyapp",
+    "storage_bucket": "vehiclesafetyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869634811314:android:fdf56a8a72800db0",
+        "android_client_info": {
+          "package_name": "com.example.rohit.vehiclesafetyapp295b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869634811314-ma7uchkh1jakvtsmkhu6f84ajruqnnhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMY-T9Lx9VqiNrm24HgBFQXeT_P6EOg50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
